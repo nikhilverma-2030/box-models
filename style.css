@@ -1,0 +1,30 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100vh;
+    position: fixed;
+}
+#box{ 
+    margin: 10vh 25vw;
+    width: 50vw;
+    height: 80vh;
+}
+#button{
+    height: 10vh;
+    width: 50vw;
+    font-size: 5vh;
+    border: none;
+    color: white;
+    background:linear-gradient(to right, yellow, green);
+    border: 1px solid black; 
+}
+#img{
+    height: 70vh;
+    width: 50vw;  
+    display: block;
+    border: 1px solid black;
+}
